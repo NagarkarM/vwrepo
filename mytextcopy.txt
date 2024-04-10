@@ -1,0 +1,5 @@
+This is my sample text file.
+It is created to learn git commands
+Git commands :
+git init
+
